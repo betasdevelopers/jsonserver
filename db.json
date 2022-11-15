@@ -1,49 +1,155 @@
 {
-    "alunos":[
-        {
-            "id": 1,
-            "nome":"Agatha De Souza Ribeiro",
-            "github":"https://github.com/https://github.com/agathasribeiro93",
-            "idade":20,
-            "Nasc":"1993"
-        },
-        {
-            "id": 2,
-            "nome":"Ana Carolina Santos De Aquino",
-            "github":"https://www.github.com/AnaCarolinaAquino",
-            "idade":20,
-            "Nasc":"1993"
-        },
-        {
-            "id": 3,
-            "nome":"Breno Eduardo",
-            "github":"https://www.github.com/AnaCarolinaAquino",
-            "idade":20,
-            "Nasc":"1993"
-        },
-        {
-            "id": 4,
-            "nome":"Gabriela Rosa",
-            "github":"https://github.com/Gabi-Rosa",
-            "idade":20,
-            "Nasc":"1993"
-        },
-        {
-            "id": 5,
-            "nome":"Hebert Garcia Da Silva",
-            "github":"https://www.github.com/HebertGarcia",
-            "idade":20,
-            "Nasc":"1993"
-        },
-        {
-            "id": 6,
-            "nome":"Jessica Muniz Rodrigues Da Silva",
-            "github":"https://www.github.com/https://github.com/JessyMuniz",
-            "idade":20,
-            "Nasc":"1993"
-        }
-    ],
-    "posts":[
+    "hamburguer":[
+            {
+              "id": 0,
+              "name": "Comum Burguer",
+              "peso": "310g",
+              "vegano": "não",
+              "descricao": "Hamburguer simples que mata sua fome",
+              "ingredients": [
+                "carne",
+                "Queijo",
+                "Salada",
+                "Picles",
+                "Molho Especial"
+              ]
 
-    ]
+            },
+
+            {
+                "id": 1,
+                "name": "Super Burguer",
+                "peso": "380g",
+                "vegano": "não",
+                "descricao": "Super Hamburguer é monstro!",
+                "ingredients": [
+                  "Carne de 100g",
+                  "Queijo Chedar",
+                  "Salada",
+                  "Picles",
+                  "Molho Especial",
+                  "Cebola"
+                ]
+              },
+              {
+                "id": 2,
+                "name": "Mega Burguer",
+                "peso": "450g",
+                "vegano": "não",
+                "descricao": "Hamburguer para quem tem fome!",
+                "ingredients": [
+                  "2x Carne de 100g",
+                  "Queijo Chedar",
+                  "Salada",
+                  "Picles",
+                  "Molho Especial",
+                  "Onios de Cebola"
+                ]
+              },
+              {
+                "id": 3,
+                "name": "Vegue Burguer",
+                "peso": "450g",
+                "vegano": "sim",
+                "descricao": "Você não acredita que aqui não tem carne!",
+                "ingredients": [
+                  "2x Carne Vegana",
+                  "Queijo Chedar Vegano",
+                  "Salada",
+                  "Picles",
+                  "Molho Especial Vegano",
+                  "Onios de Cebola"
+                ]
+              }
+
+    ],
+    "pizza":[
+        {
+            "id": 0,
+            "name": "Pizza Mussarela",
+            "tamanho": "35cm",
+            "vegano": "não",
+            "descricao": "Pizza mussarela da casa",
+            "ingredients": [
+              "Queijo Mussarela",
+              "Molho de Tomate",
+              "Orégano"
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Pizza Calabresa",
+            "tamanho": "35cm",
+            "vegano": "não",
+            "descricao": "Pizza calabresa da casa",
+            "ingredients": [
+              "Queijo Mussarela",
+              "Calabresa Secreta",
+              "Molho de Tomate",
+              "Orégano"
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Pizza Portuguesa",
+            "tamanho": "35cm",
+            "vegano": "não",
+            "descricao": "Pizza calabresa da casa",
+            "ingredients": [
+              "Queijo Mussarela",
+              "Calabresa Secreta",
+              "Molho de Tomate",
+              "Orégano",
+              "Cebola",
+              "Presunto",
+              "Ovos",
+              "Tomate"
+            ]
+          }
+          
+    ],
+    "bebidas":[
+        {
+            "id": 0,
+            "name": "Coca Cola Lata",
+            "tamanho": "350ml",
+            "alcoolico": "não"
+          },
+          {
+            "id": 1,
+            "name": "Coca Cola 2l",
+            "tamanho": "2l",
+            "alcoolico": "não"
+          },
+          {
+            "id": 2,
+            "name": "Guarana Natural",
+            "tamanho": "350ml",
+            "alcoolico": "não"
+          },
+          {
+            "id": 3,
+            "name": "Guarana Antartica",
+            "tamanho": "500ml",
+            "alcoolico": "não"
+          }
+        ],
+        "Entregadores":[
+            {
+                "id":"Marcelo",
+                "Horario":"12:00 ás 17:00"
+            },
+            {
+                "id":"Gabriel",
+                "Horario":"12:00 ás 17:00"
+            },
+            {
+                "id":"Ricardo",
+                "Horario":"17:00 ás 22:00"
+            },
+            {
+                "id":"Roberto",
+                "Horario":"17:00 ás 22:00"
+            }
+        ]
   }
