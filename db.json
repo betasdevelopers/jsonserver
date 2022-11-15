@@ -1,0 +1,49 @@
+{
+    "alunos":[
+        {
+            "id": 1,
+            "nome":"Agatha De Souza Ribeiro",
+            "github":"https://github.com/https://github.com/agathasribeiro93",
+            "idade":20,
+            "Nasc":"1993"
+        },
+        {
+            "id": 2,
+            "nome":"Ana Carolina Santos De Aquino",
+            "github":"https://www.github.com/AnaCarolinaAquino",
+            "idade":20,
+            "Nasc":"1993"
+        },
+        {
+            "id": 3,
+            "nome":"Breno Eduardo",
+            "github":"https://www.github.com/AnaCarolinaAquino",
+            "idade":20,
+            "Nasc":"1993"
+        },
+        {
+            "id": 4,
+            "nome":"Gabriela Rosa",
+            "github":"https://github.com/Gabi-Rosa",
+            "idade":20,
+            "Nasc":"1993"
+        },
+        {
+            "id": 5,
+            "nome":"Hebert Garcia Da Silva",
+            "github":"https://www.github.com/HebertGarcia",
+            "idade":20,
+            "Nasc":"1993"
+        },
+        {
+            "id": 6,
+            "nome":"Jessica Muniz Rodrigues Da Silva",
+            "github":"https://www.github.com/https://github.com/JessyMuniz",
+            "idade":20,
+            "Nasc":"1993"
+        }
+    ],
+    "posts":[
+
+    ]
+  }
